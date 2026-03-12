@@ -1,0 +1,18 @@
+Take any picture file
+Open in GIMP
+Make circular selection
+Invert selection
+Remove selection
+Turn removed selection, now white, to alpha
+Export as .png
+Reopen in GIMP
+Crop Image to Content
+Scale to at least 160x160px or any multitude of that
+Export and overwrite old .png
+Open with Inkscape
+Create Circle with Elipse Tool
+Set Position to 0,0 and Size to 160,160 or the multitude of resolution of the image
+Turn off Fill
+Turn on Stroke (color RGBA:00a4e3ff, width 3px times the multitude of resulution of the image)
+Export as .png
+If you used a multiple of 160x160px as resolution reopen in GIMP and downscale to 160x160
