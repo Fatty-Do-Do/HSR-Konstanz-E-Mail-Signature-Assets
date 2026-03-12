@@ -5,7 +5,7 @@ Invert selection
 Remove selection (might be necessary to bucketfill with black or white)
 Turn removed/colored selection to alpha
 Export as .png
-Reopen in GIMP
+Open new .png in GIMP
 Crop Image to Content
 Scale to at least 160x160px or any multitude of that
 Export and overwrite old .png
