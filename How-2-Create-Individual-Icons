@@ -14,7 +14,5 @@ Create Circle with Elipse Tool
 Set Position to 0,0 and Size to 160,160 or the multitude of resolution of the image
 Turn off Fill
 Turn on Stroke (color RGBA:00a4e3ff, width 4px times the multitude of resulution of the image)
-Export as Lastname-160x160.png
-If you used a multiple of 160x160px as resolution open new Lastname-160x160.png in GIMP and downscale to 160x160
-Export and overwrite Lastname-160x160.png
+Export at 160x160px as Lastname-160x160.png
 Upload to https://github.com/Fatty-Do-Do/HSR-Konstanz-E-Mail-Signature-Assets/tree/65e965bcdfe8a7330497d5698f795cef61985c6f/Individual
