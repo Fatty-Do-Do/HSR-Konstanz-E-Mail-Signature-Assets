@@ -2,8 +2,8 @@ Take any picture file
 Open in GIMP
 Make circular selection
 Invert selection
-Remove selection
-Turn removed selection, now white, to alpha
+Remove selection (might be necessary to bucketfill with black or white)
+Turn removed/colored selection to alpha
 Export as .png
 Reopen in GIMP
 Crop Image to Content
