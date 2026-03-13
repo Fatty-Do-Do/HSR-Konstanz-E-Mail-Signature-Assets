@@ -1,23 +1,26 @@
-Choose any Image you want to make into an icon
-If it has solid background open in GIMP
+//If Image has solid Background (is not transparent) -> Start here!
+Choose any image you want to make into an icon
+Open in GIMP
 Convert Background to Alpha
 Crop Image to Content
 Scale to at least 160x160px or any multitude of that
 Export as .png
-Open in Inkscape
-Set Document Size to 160x160px or the multitude of resolution you scaled to
+
+// Image has no Background (is transparent) -> Start here!
+Open in Inkscape 
+Set Document Size to 160x160px or the multitude of resolution of the Image
 Create rectangle with Rectangle Tool
-Set Position to 0,0 and Size to 160,160 or the multitude of resolution of the image
+Set position to 0,0 and size to 160,160 or the multitude of resolution of the Image
 Turn on Fill (color RGBA: fafafaff)
-Turn on Stroke (White RGBA: fafafaff, Blue RGBA: 00a8e8ff, Black RGBA: 090909ff, Stroke Width 12px times the multitude of resolution you scaled to)
-Moove Icon Layer to foreground
+Turn on Stroke (White RGBA: fafafaff, Blue RGBA: 00a8e8ff, Black RGBA: 090909ff, Stroke Width 12px times the multitude of resolution of the Image)
+Moove Icon Layer to Foreground
 Scale Icon to fit (This is why you create the Background, even if you will not use it)
 Center Icon
-If no Background is needed, moove cectangle out of document area.
+If no Background is needed, moove Rectangle out of Document Area.
 Export at 160x160px as Iconhyperlinkreference(eg.Website,YouTube,etc.)-160x160.png
 Upload to https://github.com/Fatty-Do-Do/HSR-Konstanz-E-Mail-Signature-Assets/tree/65e965bcdfe8a7330497d5698f795cef61985c6f/General
 
-Different Icon Sizes:
+//Scaling for different Icon Sizes
 Large 160x160px (eg.Logo-HSR-Konstanz-160x160
 Medium 80x80px (eg.Logo-Neptun-80x80)
 Small 40x40px (eg.E-Mail-40x40)
