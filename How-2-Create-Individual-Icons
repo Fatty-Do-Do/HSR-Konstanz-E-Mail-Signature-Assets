@@ -1,19 +1,28 @@
-Take any picture file
+//Image is Square or Round with solid Background (is not transparent) -> Start here!
+Choose any Image you want to make into a Profile Picture
 Open in GIMP
 Make circular selection
 Invert selection
-Remove selection (might be necessary to bucketfill with black or white)
-Turn removed/colored selection to alpha
-Export as .png
-Open new .png in GIMP
+Turn selection to Alpha (might be necessary to Bucketfill with black or white and then Select by Color)
+Export ~.png
+
+//Image is Round with no Background (is transparent) but not cut to minimal Size -> Start here!
+Open ~.png with GIMP
 Crop Image to Content
 Scale to at least 160x160px or any multitude of that
-Export and overwrite old .png
-Open with Inkscape
-Set Document Size to 160x160px or the multitude of resolution of the image and set shown UoM to px
+Export and overwrite ~.png
+
+//Image is Round with no Background (is transparent) and cut to minimal Size -> Start here!
+Open in Inkscape
+Set Document Size to 160x160px or the multitude of resolution of the Image and set shown UoM to px
 Create Circle with Elipse Tool
-Set Position to 0,0 and Size to 160,160 or the multitude of resolution of the image
+Set Position to 0,0 and Size to 160,160 or the multitude of resolution of the Image
 Turn off Fill
-Turn on Stroke (color RGBA:00a4e3ff, width 4px times the multitude of resulution of the image)
+Turn on Stroke (Blue RGBA:00a8e8ff, Stroke Width 4px times the multitude of resulution of the Image)
+Scale Image to fit (if necessary due to Circle covering important features)
+Center Image
 Export at 160x160px as Lastname-160x160.png
 Upload to https://github.com/Fatty-Do-Do/HSR-Konstanz-E-Mail-Signature-Assets/tree/65e965bcdfe8a7330497d5698f795cef61985c6f/Individual
+
+//Scaling for Profile Pictures
+Large 160x160px (eg.Buehler-160x160)
