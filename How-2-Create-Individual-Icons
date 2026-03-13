@@ -10,6 +10,7 @@ Crop Image to Content
 Scale to at least 160x160px or any multitude of that
 Export and overwrite old .png
 Open with Inkscape
+Set Document Size to 160x160px or the multitude of resolution of the image and set shown UoM to px
 Create Circle with Elipse Tool
 Set Position to 0,0 and Size to 160,160 or the multitude of resolution of the image
 Turn off Fill
