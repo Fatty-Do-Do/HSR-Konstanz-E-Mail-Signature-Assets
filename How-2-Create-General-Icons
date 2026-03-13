@@ -7,8 +7,8 @@ Scale to at least 160x160px or any multitude of that
 Export as .png
 
 //Image has no Background (is transparent) -> Start here!
-Open in Inkscape 
-Set Document Size to 160x160px or the multitude of resolution of the Image
+Open in Inkscape
+Set Document Size to 160x160px or the multitude of Resolution of the Image and set shown UoM to px
 Create rectangle with Rectangle Tool
 Set position to 0,0 and size to 160,160 or the multitude of resolution of the Image
 Turn on Fill (color RGBA: fafafaff)
