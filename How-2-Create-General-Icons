@@ -13,6 +13,7 @@ Create rectangle with Rectangle Tool
 Set position to 0,0 and size to 160,160 or the multitude of resolution of the Image
 Turn on Fill (color RGBA: fafafaff)
 Turn on Stroke (White RGBA: fafafaff, Blue RGBA: 00a8e8ff, Black RGBA: 090909ff, Stroke Width 12px times the multitude of resolution of the Image)
+Round Corners to Radius 16px on x and y Axis while still in Rectangle Tool
 Moove Icon Layer to Foreground
 Scale Icon to fit (This is why you create the Background, even if you will not use it)
 Center Icon
