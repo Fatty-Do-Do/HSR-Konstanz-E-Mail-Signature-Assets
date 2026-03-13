@@ -1,4 +1,4 @@
-//If Image has solid Background (is not transparent) -> Start here!
+//Image has solid Background (is not transparent) -> Start here!
 Choose any image you want to make into an icon
 Open in GIMP
 Convert Background to Alpha
@@ -6,7 +6,7 @@ Crop Image to Content
 Scale to at least 160x160px or any multitude of that
 Export as .png
 
-// Image has no Background (is transparent) -> Start here!
+//Image has no Background (is transparent) -> Start here!
 Open in Inkscape 
 Set Document Size to 160x160px or the multitude of resolution of the Image
 Create rectangle with Rectangle Tool
